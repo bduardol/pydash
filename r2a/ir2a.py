@@ -26,6 +26,7 @@ class IR2A(SimpleModule):
 
     @abstractmethod
     def handle_xml_request(self, msg):
+
         pass
 
     @abstractmethod
