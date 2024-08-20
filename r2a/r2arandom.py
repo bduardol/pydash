@@ -34,7 +34,6 @@ class R2ARandom(IR2A):
         # getting qi list
         self.parsed_mpd = parse_mpd(msg.get_payload())
         self.qi = self.parsed_mpd.get_qi()
-
         self.send_up(msg)
 
     def handle_segment_size_request(self, msg):

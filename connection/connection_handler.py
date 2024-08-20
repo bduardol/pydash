@@ -169,7 +169,7 @@ class ConnectionHandler(SimpleModule):
         ss_file = ''
         self.initial_time = time.perf_counter()
 
-        print(f'Execution Time {self.timer.get_current_time()} > selected QI: {self.qi.index(msg.get_quality_id())}')
+        #print(f'Execution Time {self.timer.get_current_time()} > selected QI: {self.qi.index(msg.get_quality_id())}')
 
         try:
             connection = http.client.HTTPConnection(host_name, port)
