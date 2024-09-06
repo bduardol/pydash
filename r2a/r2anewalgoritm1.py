@@ -1,3 +1,8 @@
+'''
+Grupo 2
+Bruno Eduardo dos Santos Lima, 211066249
+'''
+
 from r2a.ir2a import *
 import requests
 from player.parser import *
