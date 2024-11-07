@@ -1,3 +1,8 @@
+# Projeto
+Este projeto foi proposto pela disciplina de **Redes de Computadores**, da **Universidade de Brasília (UnB)**, no semestre **2024.1**.
+
+O objetivo era desenvolver um algoritmo **ABR** e implementar suas modificações no arquivo `r2anewalgoritm1.py`. O algoritmo foi baseado no artigo _"Dynamic Segment Size Selection in HTTP-Based Adaptive Video Streaming"_.
+
 # pyDash: A Framework Based Educational Tool for Adaptive Streaming Video Algorithms Study
 
 ![bigbuckbunny](https://user-images.githubusercontent.com/4336448/118493151-2b9fc380-b6f7-11eb-8a25-9134862da754.jpg) A Python Dash Project. 
