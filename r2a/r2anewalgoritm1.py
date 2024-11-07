@@ -1,6 +1,6 @@
 '''
 Grupo 2
-Bruno Eduardo dos Santos Lima, 211066249
+Bruno Eduardo, ****66249
 '''
 
 from r2a.ir2a import *
